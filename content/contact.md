@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact Lucy's Team"
 draft: false
 menu:
   main:
@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+[Open an issue](https://github.com/mathieuperez13/hugo-mock-landing-page) on GitHub.
